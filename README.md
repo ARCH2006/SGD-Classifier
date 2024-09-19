@@ -54,7 +54,13 @@ print("Confusion matrix:")
 print(cm)
 ```
 ## Output:
+```
+x-value
+```
 ![Screenshot 2024-09-19 091447](https://github.com/user-attachments/assets/aa131f95-952b-4c0c-9cd7-a64522c3b8bb)
+```
+y-value
+```
 ![Screenshot 2024-09-19 091455](https://github.com/user-attachments/assets/7870a1d5-f7b2-465c-a4a5-760bfea67179)
 ![Screenshot 2024-09-19 091508](https://github.com/user-attachments/assets/92c76280-ac89-45e7-ad48-fa53c9b3f763)
 ![Screenshot 2024-09-19 091518](https://github.com/user-attachments/assets/bb2b3582-5306-4469-9230-d740a87ba98d)
